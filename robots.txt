@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://goal5.tv/sitemap.xml
+Sitemap: https://stream.goal5.top/sitemap.xml
